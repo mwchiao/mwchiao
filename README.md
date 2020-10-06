@@ -3,7 +3,7 @@
 👍 Pronouns: He/Him/His
 
 ℹ️ Hello all. I'm Maxim Chiao and I am a new grad from the University of California, Davis 🐴 and an aspiring software engineer!  
-🖥 I'm currently working on ... a tool to perform CRUD operations on my Firebase project  
+🖥 I'm currently working on ... making my own blog platform with Angular and Firebase  
 📕 I'm currently learning ... Swift and iOS/macOS development, and Firebase  
      <sup>🎉 Fun fact: I don't own an iOS device (I use Android), but I do have a Macbook Pro 😉</sup>
   
