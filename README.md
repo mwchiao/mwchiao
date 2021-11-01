@@ -3,8 +3,8 @@
 👍 Pronouns: He/Him/His
 
 ℹ️ Hello all. I'm Maxim Chiao and I am a graduate from the University of California, Davis 🐴 and a software engineer!  
-🖥 I'm currently working on ... a custom Twitter app  
-📕 I'm currently learning ... Angular + Golang + backend development
+🖥 I'm currently working on ... a custom Twitter clone 
+📕 I'm currently learning ... Rust, backend development, DevOps
   
 💫 Some of my goals are to learn Kotlin for Android development and Java for Minecraft modding  
 ⚡️ I am also considering starting a blog    <sub>"Maxim Makes Apps" rolls off the tongue nicely, doesn't it?</sub>
