@@ -17,8 +17,8 @@
 [![maximchiao.me][website-shield]][website-url] [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-[website-shield]: https://img.shields.io/badge/%F0%9F%8C%B1-maximchiao.me-272727?style=for-the-badge&labelColor=272727
-[website-url]: https://maximchiao.me/
+[website-shield]: https://img.shields.io/badge/%F0%9F%8C%B1-chiao.dev-272727?style=for-the-badge&labelColor=272727
+[website-url]: https://chiao.dev/
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-2867b2?style=for-the-badge&logo=linkedin&colorB=2867b2
 [linkedin-url]: https://www.linkedin.com/in/mwchiao/
