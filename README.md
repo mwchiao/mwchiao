@@ -3,8 +3,8 @@
 👍 Pronouns: He/Him/His
 
 ℹ️ Hello all. I am Maxim and I am a software engineer!  
-🖥 I'm currently working on ... a Discord bot  
-📕 I'm currently learning ... Vue, backend development, DevOps
+🖥 I'm currently working on ... a blog! 
+📕 I'm currently learning ... Go and Drupal!
   
 💫 Some of my goals are to learn Kotlin for Android development and Java for Minecraft modding 
 
